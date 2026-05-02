@@ -1,0 +1,33 @@
+{
+    "member": 
+    [
+        {
+            "name": "Ahmd Mufahras Li Alfazh Assardew",
+            "nim": "22051204020",
+            "department": "Teknik Informatika",
+            "generation": "2022",
+            "role": ["Frontend Developer"]
+        },
+        {
+            "name": "Yunus Dhanzky Handitra",
+            "nim": "22051204081",
+            "department": "Teknik Informatika",
+            "generation": "2022",
+            "role": ["Backend Developer"]
+        },
+        {
+            "name": "Vincent Louis Fernando",
+            "nim": "22051204097",
+            "department": "Teknik Informatika",
+            "generation": "2022",
+            "role": ["Frontend Developer"]
+        },
+        {
+            "name": "Dyan Dananjaya Tejo Pamungkas",
+            "nim": "22051204107",
+            "department": "Teknik Informatika",
+            "generation": "2022",
+            "role": ["Backend Developer"]
+        }
+    ]
+}
