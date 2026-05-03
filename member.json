@@ -1,33 +1,54 @@
 {
     "member": 
     [
-        {
-            "name": "Ahmd Mufahras Li Alfazh Assardew",
-            "nim": "22051204020",
-            "department": "Teknik Informatika",
-            "generation": "2022",
-            "role": ["Frontend Developer"]
-        },
-        {
-            "name": "Yunus Dhanzky Handitra",
-            "nim": "22051204081",
-            "department": "Teknik Informatika",
-            "generation": "2022",
-            "role": ["Backend Developer"]
-        },
-        {
-            "name": "Vincent Louis Fernando",
-            "nim": "22051204097",
-            "department": "Teknik Informatika",
-            "generation": "2022",
-            "role": ["Frontend Developer"]
-        },
-        {
-            "name": "Dyan Dananjaya Tejo Pamungkas",
-            "nim": "22051204107",
-            "department": "Teknik Informatika",
-            "generation": "2022",
-            "role": ["Backend Developer"]
-        }
-    ]
+			{
+				"name": "Ahmd Mufahras Li Alfazh Assardew",
+				"nim": "22051204020",
+				"department": "Teknik Informatika",
+				"generation": "2022",
+				"role": ["Frontend Developer"]
+			},
+			{
+				"name": "Yunus Dhanzky Handitra",
+				"nim": "22051204081",
+				"department": "Teknik Informatika",
+				"generation": "2022",
+				"role": ["Backend Developer"]
+			},
+			{
+				"name": "Vincent Louis Fernando",
+				"nim": "22051204097",
+				"department": "Teknik Informatika",
+				"generation": "2022",
+				"role": ["Frontend Developer"]
+			},
+			{
+				"name": "Dyan Dananjaya Tejo Pamungkas",
+				"nim": "22051204107",
+				"department": "Teknik Informatika",
+				"generation": "2022",
+				"role": ["Backend Developer"]
+			},
+			{
+				"name": "Yakobus Octavianus Sucahyo Putra",
+				"nim": "23051204332",
+				"department": "Teknik Informatika",
+				"generation": "2023",
+				"role": ["Fullstack Developer"]
+			},
+			{
+				"name": "Dea Primatama",
+				"nim": "23051204016",
+				"department": "Teknik Informatika",
+				"generation": "2023",
+				"role": ["Backend Developer"]
+			},
+			{
+				"name": "Aditya Raihan Purusatama",
+				"nim": "23051204069",
+				"department": "Teknik Informatika",
+				"generation": "2023",
+				"role": ["Backend Developer"]
+			}
+		]
 }
