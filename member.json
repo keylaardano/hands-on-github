@@ -50,5 +50,12 @@
 				"generation": "2023",
 				"role": ["Frontend Developer"]
 			}
+			{
+				"name": "Rafly Priambudi",
+				"nim": "25051214104",
+				"department": "Sistem informasi",
+				"generation": "2025",
+				"role": ["Frontend Developer"]
+			}
 		]
 }
