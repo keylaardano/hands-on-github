@@ -56,6 +56,13 @@
 				"department": "Sistem informasi",
 				"generation": "2025",
 				"role": ["Frontend Developer"]
+			},
+			{
+				"name": "Keyla Putri Nanjalita Ardano",
+				"nim": "25051204083",
+				"department": "Teknik Informatika",
+				"generation": "2025",
+				"role": ["Frontend Developer"]
 			}
 		]
 }
